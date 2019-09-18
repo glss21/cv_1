@@ -1,0 +1,24 @@
+body {
+  background-color:#EAF6F6;
+
+  font-family: 'Merriweather', serif;
+}
+hr
+{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+height:0;
+width: 5%;
+}
+h1 {
+  color:#74B49B;
+  text-align: left;
+}
+h3 {
+  color:#66BFBF;
+}
+img{
+  height: 180px;
+}
